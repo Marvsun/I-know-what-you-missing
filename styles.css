@@ -6,7 +6,7 @@ body {
     background-color: #D6BFDC;
 }
 
-#nopeButton {
+#noButton {
     position: absolute;
     margin-left: 150px;
     transition: 0.5s;
@@ -18,7 +18,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Brush Script MT';
+    font-family: 'Comic Sans MS (cursive)';
     font-size: 40px;
     font-weight: bold;
     color: white;
