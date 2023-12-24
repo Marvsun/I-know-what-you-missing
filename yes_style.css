@@ -7,7 +7,7 @@ body {
 }
 
 /* Position the "not-really." button absolutely within body */
-#noButton {
+#not-really.Button {
     position: absolute;
     margin-left: 150px;
     transition: 0.5s;
