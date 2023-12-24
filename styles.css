@@ -4,6 +4,9 @@ body {
     align-items: center;
     height: 90vh;
     background-color: #D7BDE2;
+    background-image: url('showering-flowers.jpg'); /* Replace with the actual image URL */
+    background-size: cover;
+    background-position: center;
 }
 
 #noButton {
@@ -11,8 +14,6 @@ body {
     margin-left: 150px;
     transition: 0.5s;
 }
-
-
 
 #yesButton {
     position: absolute;
@@ -36,6 +37,7 @@ body {
     align-items: center;
     margin-top: 20px;
     margin-left: 20px;
+    margin-right: 20px; /* Add space between buttons */
 }
 
 .btn {
