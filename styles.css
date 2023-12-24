@@ -4,9 +4,6 @@ body {
     align-items: center;
     height: 90vh;
     background-color: #D7BDE2;
-    background-image: url('showering-flowers.jpg'); /* Replace with the actual image URL */
-    background-size: cover;
-    background-position: center;
     margin: 0; /* Remove default body margin */
 }
 
@@ -17,7 +14,7 @@ body {
 
 #yesButton {
     position: absolute;
-    margin-right: 20px; /* Add space between buttons */
+    margin-right: 5cm; /* Add 1 cm space between buttons */
 }
 
 .header_text {
@@ -37,7 +34,6 @@ body {
     align-items: center;
     margin-top: 20px;
     margin-left: 20px;
-    margin-right: 20px; /* Add space between buttons */
 }
 
 .btn {
