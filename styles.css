@@ -8,12 +8,14 @@ body {
 
 #noButton {
     position: absolute;
+    justify-content:flex-end;
     margin-left: 150px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
+    justify-content:flex-start;
     margin-right: 150px;
 }
 
