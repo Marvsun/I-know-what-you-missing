@@ -13,7 +13,7 @@
                 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZ2JiZDR0a3lvMWF4OG8yc3p6Ymdvd3g2d245amdveDhyYmx6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLS1cfxvGOPVpf9g3y/giphy.gif" alt="Cute animated illustration">
             </div>
             <div class = "buttons">
-                <button class="btn" id = "Ofcourse,mylove!Button" onclick="nextPage()">Of course, my love!</button>
+                <button class="btn" id = "Of course, my love!Button" onclick="nextPage()">Of course, my love!</button>
                 <button class="btn" id="Not really.Button" onmouseover="moveButton()" onclick="moveButton()">Not Really.</button>
                 <script>     
                     function nextPage() {
@@ -21,8 +21,8 @@
                     }
                     
                     function moveButton() {
-                        var x = Math.random() * (window.innerWidth - document.getElementById('noButton').offsetWidth);
-                        var y = Math.random() * (window.innerHeight - document.getElementById('noButton').offsetHeight);
+                        var x = Math.random() * (window.innerWidth - document.getElementById('Not really.Button').offsetWidth);
+                        var y = Math.random() * (window.innerHeight - document.getElementById('Not really.Button').offsetHeight);
                         document.getElementById('Not really.Button').style.left = `${x}px`;
                         document.getElementById('Not really.Button').style.top = `${y}px`;
                     }
