@@ -6,7 +6,7 @@ body {
     background-color: #CCA6D5;
 }
 
-/* Position the "nope" button absolutely within body */
+/* Position the "nope." button absolutely within body */
 #nopeButton {
     position: absolute;
     margin-left: 150px;
