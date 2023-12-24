@@ -28,10 +28,9 @@ body {
 }
 
 .buttons {
-    display: flex;
+    display: Center;
     flex-direction: row;
     justify-content: space-between;
-    <div class="push">noButton</div>
     margin-top: 20px;
     margin-left: 20px;
 }
