@@ -22,13 +22,14 @@ body {
 
 
 .header_text {
-    font-family: 'Nunito';
-    font-size: 40px;
+     font-family: 'Comic Sans MS', cursive;
+    font-size: 50px;
     font-weight: bold;
     color: white;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
+    text-shadow: 2px 2px 4px #7D3C98;
 }
 
 .buttons {
