@@ -9,13 +9,17 @@ body {
 
 #noButton {
     position: absolute;
+    margin-left: 150px;
     transition: 0.5s;
 }
 
+
+
 #yesButton {
     position: absolute;
-    margin-left: 20px; /* Add margin to the left for the "Of course, my love!" button */
+    margin-right: 150px;
 }
+
 
 .header_text {
     font-family: 'Nunito';
