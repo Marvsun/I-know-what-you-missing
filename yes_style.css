@@ -19,18 +19,7 @@ body {
     margin-right: 20px;
     /* Smooth movement */
 }
-#noButton {
-    position: absolute;
-    margin-right: 10px;
-    transition: 0.5s;
-    /* Smooth movement */
-}
 
-#yesButton {
-    position: absolute;
-    margin-right: 10px;
-    /* Smooth movement */
-}
 
 .header_text {
     font-family: 'Nunito';
