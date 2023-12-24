@@ -7,17 +7,17 @@ body {
     background-image: url('showering-flowers.jpg'); /* Replace with the actual image URL */
     background-size: cover;
     background-position: center;
+    margin: 0; /* Remove default body margin */
 }
 
 #noButton {
     position: absolute;
-    margin-left: 150px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 150px;
+    margin-right: 20px; /* Add space between buttons */
 }
 
 .header_text {
