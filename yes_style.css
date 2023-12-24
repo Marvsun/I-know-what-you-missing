@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #E8DAEF;
+    background-color: #D7BDE2;
 }
 
 /* Position the "No" button absolutely within body */
@@ -51,7 +51,7 @@ body {
 }
 
 .btn {
-    background-color: #D2B4DE;
+    background-color: #D7BDE2;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -65,7 +65,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #D7BDE2;
+    background-color: #BB8FCE;
 }
 
 .gif_container {
