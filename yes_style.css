@@ -6,8 +6,8 @@ body {
     background-color: #CCA6D5;
 }
 
-/* Position the "nope." button absolutely within body */
-#nopeButton {
+/* Position the "no" button absolutely within body */
+#noButton {
     position: absolute;
     margin-left: 150px;
     transition: 0.5s;
@@ -21,7 +21,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Brush Script MT';
+    font-family: 'Comic Sans MS (cursive)';
     font-size: 50px;
     font-weight: bold;
     color: white;
@@ -31,7 +31,7 @@ body {
 }
 
 .text {
-    font-family: 'Nunito';
+    font-family: 'Comic Sans MS (cursive)';
     font-size: 25px;
     font-weight: bold;
     color: white;
