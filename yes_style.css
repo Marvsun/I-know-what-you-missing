@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: #CCA6D5;
 }
 
 /* Position the "not-really." button absolutely within body */
@@ -65,7 +65,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #CBC3E3;
+    background-color: #CCA6D5;
 }
 
 .gif_container {
