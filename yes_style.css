@@ -3,10 +3,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #CCA6D5;
+    background-color: #C79DD2;
 }
 
-/* Position the "no" button absolutely within body */
+/* Position the "No" button absolutely within body */
 #noButton {
     position: absolute;
     margin-left: 150px;
@@ -21,7 +21,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Comic Sans MS';
+    font-family: 'Nunito';
     font-size: 50px;
     font-weight: bold;
     color: white;
@@ -31,7 +31,7 @@ body {
 }
 
 .text {
-    font-family: 'Comic Sans MS';
+    font-family: 'Nunito';
     font-size: 25px;
     font-weight: bold;
     color: white;
@@ -51,7 +51,7 @@ body {
 }
 
 .btn {
-    background-color: #FFB6C1;
+    background-color: #C79DD2;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -65,7 +65,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #CCA6D5;
+    background-color: #FAF9F6;
 }
 
 .gif_container {
