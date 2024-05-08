@@ -59,13 +59,6 @@ body {
     background-color: #BB8FCE; /* New background color for hover effect */
 }
 
-.btn:active {
-    transform: scale(0.95); /* Scale down the button on click */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add shadow effect */
-    background-color: #9b59b6; /* Change background color */
-    transition: transform 0.1s ease, box-shadow 0.1s ease, background-color 0.1s ease; /* Add transition effect */
-}
-
 .gif_container {
     display: flex;
     justify-content: center;
