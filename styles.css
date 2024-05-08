@@ -65,3 +65,12 @@ body {
     align-items: center;
     margin-left: 90px;
 }
+
+/* New cursor styles for buttons */
+#yesButton:hover {
+    cursor: url(https://github.com/Marvsun/MissMeMore/assets/154723036/8d83f41d-b6ec-4a8d-b844-029fab31db56'), auto;
+}
+
+#noButton:hover {
+    cursor: url(https://github.com/Marvsun/MissMeMore/assets/154723036/d8951c18-8515-4aa3-bb47-405b97df69bf), auto;
+}
